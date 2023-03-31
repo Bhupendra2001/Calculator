@@ -1,0 +1,35 @@
+
+.cont{
+    border: 3px solid teal;
+     display: flex;
+     justify-content: center;
+     flex-direction: column;
+   
+     margin-left: 200px;
+}
+
+.input1{
+ margin: 4px;
+ border: 2px solid red;
+ width: 350px;
+ height: 30px;
+}
+.input1 input{
+    margin-left: 20px;
+    border: none;
+}
+.input2{
+  margin: 4px;
+  border: 2px solid red;
+  width: 350px;
+ height: 30px;
+}
+.input2 input{
+    margin-left: 20px;
+    border: none;
+}
+
+.btn{
+    
+    border: 1px solid green;
+}
